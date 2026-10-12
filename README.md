@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Profile Photo & Header -->
-  <img src="img/robel.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; border: 3px solid #2dd4bf; box-shadow: 0 0 25px rgba(45, 212, 191, 0.4);" alt="Robel Baye" />
+  <img src="img/robel_circle.png" width="140" height="140" alt="Robel Baye" />
 
   # Hi there, I'm Robel Baye 👋
 
